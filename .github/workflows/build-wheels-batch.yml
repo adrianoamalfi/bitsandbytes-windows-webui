@@ -5,7 +5,7 @@ on:
     inputs:
       versions:
         description: 'Comma-seperated versions of bitsandbytes to build'
-        default: 'latest,0.41.0,0.40.2,0.38.1,0.39.0,0.39.1,0.40.0,0.40.1'
+        default: 'latest,0.42.0,0.41.0,0.40.2,0.38.1,0.39.0,0.39.1,0.40.0,0.40.1'
         required: true
         type: string
 
